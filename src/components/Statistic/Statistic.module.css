@@ -1,0 +1,17 @@
+.stat {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  border: 1px solid black;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
+
+.statEl {
+  margin: 10px;
+  font-weight: 700;
+  font-size: 18px;
+}
